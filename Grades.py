@@ -27,5 +27,4 @@ letter = grade_letter(average)
 
 print("Your average is" , average)
 print("Your letter grade is" , letter)
-print("This is an edit")
-
+print("Thank you for using the grade letter calculator")
